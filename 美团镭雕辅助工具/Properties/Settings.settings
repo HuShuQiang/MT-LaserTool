@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="美团镭雕辅助工具.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="Field" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sn,MarkCode</Value>
+    </Setting>
+    <Setting Name="Prefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A</Value>
+    </Setting>
+    <Setting Name="SNRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">A5111426\d{10}</Value>
+    </Setting>
+    <Setting Name="IsUploadStation" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CheckField" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CQC_QR</Value>
+    </Setting>
+    <Setting Name="ReadDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
